@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! My name is Emerson Ávila and I'm a Developer Fullstack.</h2>
 
+<p> I am a game development student at Udemy </p>
+<p> I'm Systems Analysis and Development student at La Salle University </p>
+<p> I'm fullstack development student at DNC ​​school </p>
+<p> I studied fullstack development at Kenzye Akademy Brazil </p>
+
+
 ###
 
 <div align="center">
